@@ -24,3 +24,4 @@ void main(){
 ![GitHub](https://miro.medium.com/max/719/1*WaaXnUvhvrswhBJSw4YTuQ.png)
 
 `Dart Week`
+`Maior evento de Flutter e Dart do Brasil!!!`
